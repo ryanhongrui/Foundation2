@@ -1,3 +1,3 @@
 git checkout branch2
-git restore .
+git stach pop
 git commit -m"commit for question12"
